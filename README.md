@@ -54,4 +54,4 @@ Future Improvements
 
 4.Put the data of humidity measured from the DHT11 into the SGP30 sensor to compenstate for the deviation
 
-The Presentation Video
+The Presentation Video is in the above files

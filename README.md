@@ -11,8 +11,7 @@ Uses a water pump for automatic irrigation.
 
 Implements voice interaction control (for pump and humidifier) via the ASRPRO module.
 
-Acquires eCO2 concentration data from the air using the SGP30 module.
-<img width="488" height="1138" alt="屏幕截图 2026-02-24 213802" src="https://github.com/user-attachments/assets/a7cc24b9-ff2c-46c3-be55-ab7a42fffd7b" />
+Acquires eCO2 concentration data from the air using the SGP30 module.<img width="488" height="1138" alt="屏幕截图 2026-02-24 213802" src="https://github.com/user-attachments/assets/a7cc24b9-ff2c-46c3-be55-ab7a42fffd7b" />
 
 
 Hardware Components
@@ -33,6 +32,7 @@ Hardware Components
 
 8.Controls the UV lamp, water pump, and humidifier via the voice module
 ![00B6964355244B190F29D1986A5139FF](https://github.com/user-attachments/assets/0211a3a6-3c1a-4ebd-9c16-b88308321c79)
+<img width="1686" height="1014" alt="屏幕截图 2026-02-20 224021" src="https://github.com/user-attachments/assets/671c6945-00c3-4f0e-a4df-d6016348def7" />
 
 
 Software Components

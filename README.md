@@ -52,4 +52,6 @@ Future Improvements
 
 3.Implement automatic water replenishment equipped with an ultrasonic sensor to prevent overflow.
 
-4.put the data of humidity measured from the DHT11 into the SGP30 sensor to compenstate for the deviation
+4.Put the data of humidity measured from the DHT11 into the SGP30 sensor to compenstate for the deviation
+
+The Presentation Video

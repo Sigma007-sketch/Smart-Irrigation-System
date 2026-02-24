@@ -12,6 +12,7 @@ Uses a water pump for automatic irrigation.
 Implements voice interaction control (for pump and humidifier) via the ASRPRO module.
 
 Acquires eCO2 concentration data from the air using the SGP30 module.
+<img width="488" height="1138" alt="屏幕截图 2026-02-24 213802" src="https://github.com/user-attachments/assets/a7cc24b9-ff2c-46c3-be55-ab7a42fffd7b" />
 
 
 Hardware Components
@@ -31,11 +32,14 @@ Hardware Components
 7.ASRPRO voice module
 
 8.Controls the UV lamp, water pump, and humidifier via the voice module
+![00B6964355244B190F29D1986A5139FF](https://github.com/user-attachments/assets/0211a3a6-3c1a-4ebd-9c16-b88308321c79)
 
 
 Software Components
 
-1.Arduino IDE for programming the Arduino UNO board
+1.Arduino IDE for programming the Arduino UNO board<img width="1777" height="1138" alt="屏幕截图 2026-02-24 183958" src="https://github.com/user-attachments/assets/7b03bf46-8447-460a-a445-6a32c8900406" />
+<img width="1512" height="931" alt="屏幕截图 2026-02-24 184012" src="https://github.com/user-attachments/assets/aaa01e29-e667-47db-bdee-8a1944e0f304" />
+
 
 2.Tianwen Block for programming the ASRPRO voice module
 
